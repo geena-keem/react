@@ -1,0 +1,14 @@
+.toggle {
+  border: 2px solid #104a3a;
+  width: 64px;
+  height: 64px;
+  border-radius: 32px;
+  box-sizing: border-box;
+}
+
+.toggle.active {
+  background: #ffecb3;
+}
+
+
+/*# sourceMappingURL=/vanilla-redux.9ad09f98.css.map */

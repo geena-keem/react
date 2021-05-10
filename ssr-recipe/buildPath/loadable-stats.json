@@ -1,0 +1,1241 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "fb03caa1deb7a4569bf2",
+  "publicPath": "/",
+  "outputPath": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\buildPath",
+  "assetsByChunkName": {
+    "main": [
+      "static/css/main.6dea0f05.chunk.css",
+      "static/js/main.7cf1b2d2.chunk.js",
+      "static/js/main.7cf1b2d2.chunk.js.map"
+    ],
+    "pages-BluePage": [
+      "static/css/pages-BluePage.58e78c1e.chunk.css",
+      "static/js/pages-BluePage.eb67d2fd.chunk.js",
+      "static/js/pages-BluePage.eb67d2fd.chunk.js.map"
+    ],
+    "pages-RedPage": [
+      "static/css/pages-RedPage.14809fb7.chunk.css",
+      "static/js/pages-RedPage.1fc5b1d7.chunk.js",
+      "static/js/pages-RedPage.1fc5b1d7.chunk.js.map"
+    ],
+    "pages-UsersPage": [
+      "static/js/pages-UsersPage.6e1c5855.chunk.js",
+      "static/js/pages-UsersPage.6e1c5855.chunk.js.map"
+    ],
+    "runtime-main": [
+      "static/js/runtime-main.7998cbc1.js",
+      "static/js/runtime-main.7998cbc1.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "static/css/main.6dea0f05.chunk.css",
+      "size": 362,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/css/main.6dea0f05.chunk.css.map",
+      "size": 575,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/css/pages-BluePage.58e78c1e.chunk.css",
+      "size": 270,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "pages-BluePage"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/css/pages-BluePage.58e78c1e.chunk.css.map",
+      "size": 476,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/css/pages-RedPage.14809fb7.chunk.css",
+      "size": 267,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "pages-RedPage"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/css/pages-RedPage.14809fb7.chunk.css.map",
+      "size": 470,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/5.880a1afe.chunk.js",
+      "size": 217800,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true,
+        "related": {
+          "license": "static/js/5.880a1afe.chunk.js.LICENSE.txt"
+        }
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/5.880a1afe.chunk.js.LICENSE.txt",
+      "size": 1290,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/5.880a1afe.chunk.js.map",
+      "size": 792753,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/6.0eb27679.chunk.js",
+      "size": 4228,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/6.0eb27679.chunk.js.map",
+      "size": 9268,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/main.7cf1b2d2.chunk.js",
+      "size": 5837,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/main.7cf1b2d2.chunk.js.map",
+      "size": 10073,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-BluePage.eb67d2fd.chunk.js",
+      "size": 351,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "pages-BluePage"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-BluePage.eb67d2fd.chunk.js.map",
+      "size": 613,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "pages-BluePage"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-RedPage.1fc5b1d7.chunk.js",
+      "size": 348,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "pages-RedPage"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-RedPage.1fc5b1d7.chunk.js.map",
+      "size": 598,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "pages-RedPage"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-UsersPage.6e1c5855.chunk.js",
+      "size": 1662,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "pages-UsersPage"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/pages-UsersPage.6e1c5855.chunk.js.map",
+      "size": 6127,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "pages-UsersPage"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/runtime-main.7998cbc1.js",
+      "size": 3429,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "runtime-main"
+      ],
+      "info": {
+        "immutable": true,
+        "minimized": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/runtime-main.7998cbc1.js.map",
+      "size": 16308,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "runtime-main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        4,
+        5,
+        0
+      ],
+      "assets": [
+        "static/js/runtime-main.7998cbc1.js",
+        "static/js/runtime-main.7998cbc1.js.map",
+        "static/js/5.880a1afe.chunk.js",
+        "static/js/5.880a1afe.chunk.js.map",
+        "static/css/main.6dea0f05.chunk.css",
+        "static/js/main.7cf1b2d2.chunk.js",
+        "static/js/main.7cf1b2d2.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        4,
+        5,
+        0
+      ],
+      "assets": [
+        "static/js/runtime-main.7998cbc1.js",
+        "static/js/runtime-main.7998cbc1.js.map",
+        "static/js/5.880a1afe.chunk.js",
+        "static/js/5.880a1afe.chunk.js.map",
+        "static/css/main.6dea0f05.chunk.css",
+        "static/js/main.7cf1b2d2.chunk.js",
+        "static/js/main.7cf1b2d2.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-RedPage": {
+      "chunks": [
+        2
+      ],
+      "assets": [
+        "static/css/pages-RedPage.14809fb7.chunk.css",
+        "static/js/pages-RedPage.1fc5b1d7.chunk.js",
+        "static/js/pages-RedPage.1fc5b1d7.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-BluePage": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "static/css/pages-BluePage.58e78c1e.chunk.css",
+        "static/js/pages-BluePage.eb67d2fd.chunk.js",
+        "static/js/pages-BluePage.eb67d2fd.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-UsersPage": {
+      "chunks": [
+        3
+      ],
+      "assets": [
+        "static/js/pages-UsersPage.6e1c5855.chunk.js",
+        "static/js/pages-UsersPage.6e1c5855.chunk.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": 0,
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "size": 11520,
+      "names": [
+        "main"
+      ],
+      "files": [
+        "static/css/main.6dea0f05.chunk.css",
+        "static/js/main.7cf1b2d2.chunk.js",
+        "static/js/main.7cf1b2d2.chunk.js.map"
+      ],
+      "hash": "5b40bc840f9b28925d49",
+      "siblings": [
+        4,
+        5
+      ],
+      "parents": [],
+      "children": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 1,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 737,
+      "names": [
+        "pages-BluePage"
+      ],
+      "files": [
+        "static/css/pages-BluePage.58e78c1e.chunk.css",
+        "static/js/pages-BluePage.eb67d2fd.chunk.js",
+        "static/js/pages-BluePage.eb67d2fd.chunk.js.map"
+      ],
+      "hash": "2eeffac5cec87988c01c",
+      "siblings": [],
+      "parents": [
+        0,
+        4,
+        5
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 2,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 723,
+      "names": [
+        "pages-RedPage"
+      ],
+      "files": [
+        "static/css/pages-RedPage.14809fb7.chunk.css",
+        "static/js/pages-RedPage.1fc5b1d7.chunk.js",
+        "static/js/pages-RedPage.1fc5b1d7.chunk.js.map"
+      ],
+      "hash": "39eeec332edc60a2eefa",
+      "siblings": [],
+      "parents": [
+        0,
+        4,
+        5
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 3,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 4352,
+      "names": [
+        "pages-UsersPage"
+      ],
+      "files": [
+        "static/js/pages-UsersPage.6e1c5855.chunk.js",
+        "static/js/pages-UsersPage.6e1c5855.chunk.js.map"
+      ],
+      "hash": "d3f22267e3ea1c9ec9d4",
+      "siblings": [],
+      "parents": [
+        0,
+        4,
+        5
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 4,
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 0,
+      "names": [
+        "runtime-main"
+      ],
+      "files": [
+        "static/js/runtime-main.7998cbc1.js",
+        "static/js/runtime-main.7998cbc1.js.map"
+      ],
+      "hash": "62fe23b7fc8f60eca862",
+      "siblings": [
+        0,
+        5
+      ],
+      "parents": [],
+      "children": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 5,
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "reason": "split chunk (cache group: vendors)",
+      "size": 537254,
+      "names": [],
+      "files": [
+        "static/js/5.880a1afe.chunk.js",
+        "static/js/5.880a1afe.chunk.js.map"
+      ],
+      "hash": "e867b457932cdc459567",
+      "siblings": [
+        0,
+        4
+      ],
+      "parents": [],
+      "children": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": 6,
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "size": 5604,
+      "names": [],
+      "files": [
+        "static/js/6.0eb27679.chunk.js",
+        "static/js/6.0eb27679.chunk.js.map"
+      ],
+      "hash": "482f8f38ede3de0de334",
+      "siblings": [],
+      "parents": [
+        0,
+        4,
+        5
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    }
+  ],
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": [
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\buildPath",
+      "assetsByChunkName": {
+        "HtmlWebpackPlugin_0": "__child-HtmlWebpackPlugin_0"
+      },
+      "assets": [
+        {
+          "name": "__child-HtmlWebpackPlugin_0",
+          "size": 5701,
+          "chunks": [
+            0
+          ],
+          "chunkNames": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "info": {},
+          "emitted": false
+        }
+      ],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "HtmlWebpackPlugin_0": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "HtmlWebpackPlugin_0": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 2023,
+          "names": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "files": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "hash": "2e9e0041290906f5e186",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "childrenByOrder": {},
+          "modules": [
+            {
+              "id": 0,
+              "identifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\public\\index.html",
+              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./public/index.html",
+              "index": 0,
+              "index2": 0,
+              "size": 2023,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\public\\index.html",
+                  "loc": "HtmlWebpackPlugin_0"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 0
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_0",
+              "request": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\public\\index.html",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "HtmlWebpackCompiler"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\buildPath",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 3569,
+          "names": [
+            "mini-css-extract-plugin"
+          ],
+          "files": [
+            "*"
+          ],
+          "hash": "533a9e025eba0834c1e3",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "childrenByOrder": {},
+          "modules": [
+            {
+              "id": 0,
+              "identifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\babel-loader\\lib\\index.js??ref--5-oneOf-3!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\runtime\\api.js",
+              "name": "./node_modules/css-loader/dist/runtime/api.js",
+              "index": 1,
+              "index2": 0,
+              "size": 2517,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Blue.css",
+              "issuerId": 1,
+              "issuerName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+              "issuerPath": [
+                {
+                  "id": 1,
+                  "identifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Blue.css",
+                  "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Blue.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "2:0-92"
+                },
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Blue.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+                  "type": "harmony import specifier",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "3:30-57"
+                }
+              ],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "id": 1,
+              "identifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Blue.css",
+              "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Blue.css",
+              "index": 0,
+              "index2": 1,
+              "size": 1052,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "!!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Blue.css",
+                  "loc": "mini-css-extract-plugin"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module uses module.id"
+              ],
+              "depth": 0
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "mini-css-extract-plugin",
+              "request": "!!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Blue.css",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!node_modules/postcss-loader/src/index.js??postcss!src/components/Blue.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\buildPath",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 3561,
+          "names": [
+            "mini-css-extract-plugin"
+          ],
+          "files": [
+            "*"
+          ],
+          "hash": "781b36de1d747f113651",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "childrenByOrder": {},
+          "modules": [
+            {
+              "id": 0,
+              "identifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\babel-loader\\lib\\index.js??ref--5-oneOf-3!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\runtime\\api.js",
+              "name": "./node_modules/css-loader/dist/runtime/api.js",
+              "index": 1,
+              "index2": 0,
+              "size": 2517,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Red.css",
+              "issuerId": 1,
+              "issuerName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+              "issuerPath": [
+                {
+                  "id": 1,
+                  "identifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Red.css",
+                  "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Red.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "2:0-92"
+                },
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Red.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+                  "type": "harmony import specifier",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "3:30-57"
+                }
+              ],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "id": 1,
+              "identifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Red.css",
+              "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/Red.css",
+              "index": 0,
+              "index2": 1,
+              "size": 1044,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "!!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Red.css",
+                  "loc": "mini-css-extract-plugin"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module uses module.id"
+              ],
+              "depth": 0
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "mini-css-extract-plugin",
+              "request": "!!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\components\\Red.css",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!node_modules/postcss-loader/src/index.js??postcss!src/components/Red.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/",
+      "outputPath": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\buildPath",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "chunks": [
+        {
+          "id": 0,
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "size": 3745,
+          "names": [
+            "mini-css-extract-plugin"
+          ],
+          "files": [
+            "*"
+          ],
+          "hash": "5ae506b251328d0d8418",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "childrenByOrder": {},
+          "modules": [
+            {
+              "id": 0,
+              "identifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\babel-loader\\lib\\index.js??ref--5-oneOf-3!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\runtime\\api.js",
+              "name": "./node_modules/css-loader/dist/runtime/api.js",
+              "index": 1,
+              "index2": 0,
+              "size": 2517,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\index.css",
+              "issuerId": 1,
+              "issuerName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+              "issuerPath": [
+                {
+                  "id": 1,
+                  "identifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\index.css",
+                  "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\index.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "2:0-89"
+                },
+                {
+                  "moduleId": 1,
+                  "moduleIdentifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\index.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+                  "type": "harmony import specifier",
+                  "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "3:30-57"
+                }
+              ],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "id": 1,
+              "identifier": "C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\index.css",
+              "name": "./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css",
+              "index": 0,
+              "index2": 1,
+              "size": 1228,
+              "cacheable": true,
+              "built": true,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                0
+              ],
+              "issuer": null,
+              "issuerId": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "type": "single entry",
+                  "userRequest": "!!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\index.css",
+                  "loc": "mini-css-extract-plugin"
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module uses module.id"
+              ],
+              "depth": 0
+            }
+          ],
+          "filteredModules": 0,
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "mini-css-extract-plugin",
+              "request": "!!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\css-loader\\dist\\cjs.js??ref--5-oneOf-4-1!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\node_modules\\postcss-loader\\src\\index.js??postcss!C:\\Users\\geena\\Documents\\Projects\\ssr-recipe\\src\\index.css",
+              "reasons": []
+            }
+          ]
+        }
+      ],
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!node_modules/postcss-loader/src/index.js??postcss!src/index.css"
+    }
+  ],
+  "generator": "loadable-components"
+}
